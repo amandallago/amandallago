@@ -10,7 +10,7 @@
 
 <p align="left">
 <h3 align="left">ミ★ About me</h3>
-⤷ Me chamo Amanda, tenho 18 anos, sou estudante de Análise e Desenvolvimentos de Sistemas (2º semestre) na Universidade Católica de Salvador.<br>
+⤷ Me chamo Amanda, tenho 18 anos, sou estudante de Análise e Desenvolvimentos de Sistemas (2º semestre) na Universidade Católica do Salvador.<br>
 ⤷ Estou no início da minha jornada na área de desenvolvimento, buscando aprender cada vez mais. Atualmente, meus estudos estão focados em Java, Python, HTML, CSS e JavaScript.<br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 </p>
 
@@ -45,7 +45,7 @@
 <h3 align="left">ミ★ How to contact me</h3>
 <div> 
   <a href="https://www.instagram.com/amandalago_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 

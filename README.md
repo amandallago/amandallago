@@ -37,6 +37,13 @@
   
   ##
 
+<h3 align="left">ミ★ IDEs</h3>
+  <img align="center" alt="mary-VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+  <img align="center" alt="mary-Eclipse" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
+</div>
+
+  ##
+  
 <h3 align="left">ミ★ How to contact me</h3>
 <div> 
   <a href="https://www.instagram.com/amandalago_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

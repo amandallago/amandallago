@@ -1,4 +1,4 @@
-## Hello World <3
+## ㅤㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤHello World <3 ㅤㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/52/d8/d7/52d8d7d7dd20b858e02fd818ba06c53b.gif"  />
@@ -17,12 +17,15 @@
 </p>
 
 
+##
+
+<h3 align="left">ミ★ My Dashboard</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amandallago&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amandallago&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-##
+  ##
 
 <h3 align="left">ミ★ Languages</h3>
 <div style="display: inline_block"><br>
@@ -33,7 +36,8 @@
   <img align="center" alt="python logo" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
   ##
- 
+
+<h3 align="left">ミ★ How to contact me</h3>
 <div> 
   <a href="https://www.instagram.com/amandalago_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -1,3 +1,6 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A917E1&height=120&section=header"/>
+ 
+ 
  ㅤㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=932ABB&width=435&lines=%E3%85%A4%E3%85%A4Hello+World+%3C3;Welcome+to+my+profile!)](https://git.io/typing-svg)ㅤㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/52/d8/d7/52d8d7d7dd20b858e02fd818ba06c53b.gif"  />
@@ -57,3 +60,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandallago/amandallago/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amandallago/amandallago/output/pacman-contribution-graph.svg">
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A917E1&height=120&section=footer"/>

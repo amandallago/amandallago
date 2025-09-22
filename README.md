@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A917E1&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
  
 <div align="center">
  
@@ -58,4 +58,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/amandallago/amandallago/output/pacman-contribution-graph.svg">
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A917E1&height=120&section=footer"/>
+![Footer Roxo Ondas para Cima](https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer&flip=true)

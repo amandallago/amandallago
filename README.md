@@ -6,16 +6,16 @@
 
 </div>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
+
+
 <img align="right" height="150" src="https://i.pinimg.com/originals/52/d8/d7/52d8d7d7dd20b858e02fd818ba06c53b.gif" />
 
-<p align="left">
-<h3 align="left">ミ★ About me</h3>
-⤷ Me chamo Amanda, tenho 18 anos, sou estudante de Análise e Desenvolvimentos de Sistemas (2º semestre) na Universidade Católica do Salvador.<br>
-⤷ Estou no início da minha jornada na área de desenvolvimento, buscando aprender cada vez mais. Atualmente, meus estudos estão focados em Java, Python, HTML, CSS e JavaScript.<br>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-</p>
 
 
-##
+
+
+
+
 
 <h3 align="left">ミ★ My Dashboard</h3>
 <div align="center">

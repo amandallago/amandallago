@@ -39,6 +39,7 @@
   <img align="center" alt="VScode" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
   <img align="center" alt="Eclipse" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" />
   <img align="center" alt="Pycharm" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+  <img align="center" alt="Node.JS" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
   ##
